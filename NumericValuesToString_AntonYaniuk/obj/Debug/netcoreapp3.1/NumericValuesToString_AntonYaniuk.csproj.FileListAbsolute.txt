@@ -1,0 +1,13 @@
+C:\Users\тест\source\repos\NumericValuesToSting_Yaniuk\NumericValuesToString_AntonYaniuk\obj\Debug\netcoreapp3.1\NumericValuesToString_AntonYaniuk.AssemblyInfoInputs.cache
+C:\Users\тест\source\repos\NumericValuesToSting_Yaniuk\NumericValuesToString_AntonYaniuk\obj\Debug\netcoreapp3.1\NumericValuesToString_AntonYaniuk.AssemblyInfo.cs
+C:\Users\тест\source\repos\NumericValuesToSting_Yaniuk\NumericValuesToString_AntonYaniuk\obj\Debug\netcoreapp3.1\NumericValuesToString_AntonYaniuk.csproj.CoreCompileInputs.cache
+C:\Users\тест\source\repos\NumericValuesToSting_Yaniuk\NumericValuesToString_AntonYaniuk\bin\Debug\netcoreapp3.1\NumericValuesToString_AntonYaniuk.exe
+C:\Users\тест\source\repos\NumericValuesToSting_Yaniuk\NumericValuesToString_AntonYaniuk\bin\Debug\netcoreapp3.1\NumericValuesToString_AntonYaniuk.deps.json
+C:\Users\тест\source\repos\NumericValuesToSting_Yaniuk\NumericValuesToString_AntonYaniuk\bin\Debug\netcoreapp3.1\NumericValuesToString_AntonYaniuk.runtimeconfig.json
+C:\Users\тест\source\repos\NumericValuesToSting_Yaniuk\NumericValuesToString_AntonYaniuk\bin\Debug\netcoreapp3.1\NumericValuesToString_AntonYaniuk.runtimeconfig.dev.json
+C:\Users\тест\source\repos\NumericValuesToSting_Yaniuk\NumericValuesToString_AntonYaniuk\bin\Debug\netcoreapp3.1\NumericValuesToString_AntonYaniuk.dll
+C:\Users\тест\source\repos\NumericValuesToSting_Yaniuk\NumericValuesToString_AntonYaniuk\bin\Debug\netcoreapp3.1\NumericValuesToString_AntonYaniuk.pdb
+C:\Users\тест\source\repos\NumericValuesToSting_Yaniuk\NumericValuesToString_AntonYaniuk\obj\Debug\netcoreapp3.1\NumericValuesToString_AntonYaniuk.dll
+C:\Users\тест\source\repos\NumericValuesToSting_Yaniuk\NumericValuesToString_AntonYaniuk\obj\Debug\netcoreapp3.1\NumericValuesToString_AntonYaniuk.pdb
+C:\Users\тест\source\repos\NumericValuesToSting_Yaniuk\NumericValuesToString_AntonYaniuk\obj\Debug\netcoreapp3.1\NumericValuesToString_AntonYaniuk.genruntimeconfig.cache
+C:\Users\тест\source\repos\NumericValuesToSting_Yaniuk\NumericValuesToString_AntonYaniuk\obj\Debug\netcoreapp3.1\NumericValuesToString_AntonYaniuk.csprojAssemblyReference.cache
